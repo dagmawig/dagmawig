@@ -1,8 +1,8 @@
 ## Hi there 👋
   This is Dag. Check out the projects I have worked on below.
 ## About Me
-  🌱 I am a full stack developer who enjoys creating both client and server side applications using various language frameworks.
-  🔭 I am currently building a message queue system for a non profit organization using Node.js and postgres.
+  🌱 I am a full stack developer who enjoys creating both client and server side applications using various language frameworks.  
+  🔭 I am currently building a message queue system for a non profit organization using Node.js and postgres.  
   💻 I have developed several web and mobile applications using React, Typescript, React Native, Node.js and other frameworks.
 
 ## Skills
