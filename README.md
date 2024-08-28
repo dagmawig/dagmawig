@@ -6,10 +6,10 @@
   - 💻 I have developed several web and mobile applications using React, Typescript, React Native, Node.js and other frameworks.
 
 ## Skills
-  Languages: JavaScript, TypeScript, Python, Java, HTML < br / > 
-  Frameworks: React, React Native, Node.js, Redux, Next.js, Django, Express.js, Firebase, Spring Boot, Jest/TDD, Tailwind, Bootstrap < br / > 
-  Database: RDBMS/SQL/PostgreSQL, NoSQL/MongoDB, DBeaver < br / > 
-  Tools: Git, npm, CI/CD, Figma, Docker, AWS < br / > 
+  Languages: JavaScript, TypeScript, Python, Java, HTML  
+  Frameworks: React, React Native, Node.js, Redux, Next.js, Django, Express.js, Firebase, Spring Boot, Jest/TDD, Tailwind, Bootstrap  
+  Database: RDBMS/SQL/PostgreSQL, NoSQL/MongoDB, DBeaver  
+  Tools: Git, npm, CI/CD, Figma, Docker, AWS
 
 <!--
 **dagmawig/dagmawig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
