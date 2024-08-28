@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## About Me
+  - 🌱 I am a full stack developer who enjoys working on both client and server side applications using various language frameworks.
+  - 🔭 I am currently building a message queue system for a non profit organization using Node.js and postgres.
+  - 💻 In my personal projects, I have developed several web and mobile applications using React, Typescript, React Native, Node.js and other frameworks.
+
+## Skills
+  Languages: JavaScript, TypeScript, Python, Java, HTML
+  Frameworks: React, React Native, Node.js, Redux, Next.js, Django, Express.js, Firebase, Spring Boot, Jest/TDD, Tailwind, Bootstrap
+  Database: RDBMS/SQL/PostgreSQL, NoSQL/MongoDB, DBeaver
+  Tools: Git, npm, CI/CD, Figma, Docker, AWS
+
 <!--
 **dagmawig/dagmawig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
