@@ -3,7 +3,7 @@
 ## About Me
   🌱 I am a full stack developer who ehnjoys creating both client and server side applications using various language frameworks.  
   🔭 I am currently working as a Software Engineer at a Tech Company that is providing cutting edge AI powered virtual survey solution for customers.  
-  ⚽ I’m currently building an applciation that enables soccer fans place bets on games to win points and follow soccer news.  
+  ⚽ In my free time, I’m developing an application that enables soccer fans to make game predictions, earn points, and follow soccer news.  
   💻 I have developed several web and mobile applications using React, Typescript, React Native, Node.js and other frameworks.
 
 ## Skills
